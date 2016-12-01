@@ -1,4 +1,4 @@
-# SpaceDefense
+# Space Defense
 
 Space Defense is a tower defense inspired game set in space. The player controls a spaceship that defends a central Space Station from oncoming enemies.
 
